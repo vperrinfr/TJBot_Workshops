@@ -14,9 +14,15 @@ Tout est à faire soi-même, de l’assemblage des compo- sants électronique
 
 ### Entraînement du robot a comprendre l’humain  aka Watson Assistant
 
+Dans ce workshop, nous allons apprendre à entrainer le TJBot pour pouvoir converser avec elle.
+
 ###  Entraînement du robot a reconnaître des produits aka Watson Visual 
 
+Dans ce workshop, nous allons apprendre à l'entrainer à reconnaitre des objets/produits
+
 ### Reconnaître Genre et Age d'une personne
+
+Dans ce dernier workshop, nous allons 
 
 
 
