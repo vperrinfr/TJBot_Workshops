@@ -10,19 +10,25 @@ Tout est à faire soi-même, de l’assemblage des compo- sants électronique
 
 ![TJBot](images/TJBot.jpg)
 
-## Workshop 
+## Workshops 
 
 ### Entraînement du robot a comprendre l’humain  aka Watson Assistant
 
 Dans ce workshop, nous allons apprendre à entrainer le TJBot à comprendre et converser avec un humain. Nous allons lui demander de bouger son bras, la météo...
 
+Lien : [ici](Workshop_1.md)
+
 ###  Entraînement du robot a reconnaître des produits aka Watson Visual Recognition
 
 Dans ce workshop, nous allons apprendre à l'entrainer à reconnaitre des objets/produits.
 
-### Reconnaître Genre et Age d'une personne
+Lien : [ici](Workshop_2.md)
 
-Dans ce dernier workshop, nous allons 
+### Reconnaître le Genre et Age d'une personne
+
+Dans ce dernier workshop, nous allons laisser le TJBot évaluer notre genre (Homme-Femme) et notre âge.
+
+Lien : [ici](Workshop_3.md)
 
 
 
