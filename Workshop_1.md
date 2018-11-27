@@ -8,7 +8,7 @@ Vous aurez également la possibilité de lui apprendre de nouveaux concepts. Vou
 2. Voici quelques questions que vous pouvez poser au TJBot. 
 - Liste de questions:
     - Quel temps à Paris ? 
-    - Qu'est ce que [nom de votre enttreprise] ?
+    - Qu'est ce que [nom de votre entreprise] ?
     - Raconte moi une blague 
 3. Le TJBot vous donne à l'oral la réponse.
 
@@ -23,9 +23,9 @@ P.S: Le TJBot peut également comprendre la demande à la voix, mais à cause d'
     - Lève la main
     - Met la main en haut
     - Agite ton bras
-    - 
-4. Le système va prendre quelques instants pour ingérer ces données et apprendre de celle-ci.
-5. Ensuite, vous pouvez saisir une phrase proche, mais pas forcément identique à l'une de celles founit.
-6. Gràce à cete entrainement, le bras du TJBot a du bouger et il a du vous dire un message.
+    - ...
+4. Le système va prendre quelques instants pour ingérer ces données et apprendre de celles-ci.
+5. Ensuite, vous pouvez saisir une phrase proche, mais pas forcément identique à l'une de celles fournies.
+6. Grâce à cet entrainement, le bras du TJBot a dû bouger et il a dû vous dire un message.
 
 Bravo, passons à un autre apprentissage.
