@@ -6,7 +6,7 @@ Quelques workshops autour du TJBot en utilisant NodeRed en Français
 
 TJBot est né fin 2016 au sein d’IBM Research, d’une volonté de créer un projet à des fins éducatives et démonstratives utilisant les différents services IBM Watson. Il a été créé par Maryam Ashoori, IBM Research AI.Le nom «TJBot» est un hommage à Thomas J.Watson, le premier président et CEO d’IBM. C’est un projet en constante évolution qui bénéficie des apports de la communauté open source.
 
-Tout est à faire soi-même, de l’assemblage des compo- sants électroniques à la programmation logicielle en passant par la fabrication du robot, en carton ou en plastique selon la méthode choi- sie. TJBot peut parler, converser, analyser du texte et des images mais aussi interagir en bougeant le bras ou en allumant sa LED.
+Tout est à faire soi-même, de l’assemblage des compo- sants électroniques à la programmation logicielle en passant par la fabrication du robot, en carton ou en plastique selon la méthode choisie. TJBot peut parler, converser, analyser du texte et des images mais aussi interagir en bougeant le bras ou en allumant sa LED.
 
 ![TJBot](images/TJBot.jpg)
 
