@@ -8,7 +8,7 @@ Vous aurez également la possibilité de lui apprendre de nouveaux concepts. Vou
 2. Voici quelques questions que vous pouvez poser au TJBot. 
 - Liste de questions:
     - Quel temps à Paris ? 
-    - Qu'est ce que [nom de vottre enttreprise] ?
+    - Qu'est ce que [nom de votre enttreprise] ?
     - Raconte moi une blague 
 3. Le TJBot vous donne à l'oral la réponse.
 
