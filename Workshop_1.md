@@ -12,7 +12,7 @@ Vous aurez également la possibilité de lui apprendre de nouveaux concepts. Vou
     - Raconte moi une blague 
 3. Le TJBot vous donne à l'oral la réponse.
 
-P.S: Le TJBot peut également comprendre la demande à la voix, mais à cause d'un bruit de fond trop important, nous avons désactiver cette fonctionnalité 
+P.S: Le TJBot peut également comprendre la demande à la voix, mais à cause d'un bruit de fond trop important, nous avons désactivé cette fonctionnalité 
 
 ## Mouvement du Bras
 
