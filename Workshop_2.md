@@ -10,12 +10,12 @@ Pour cet exercice, vous allez entrainer le TJBot gràce à des photos de vos pro
 2. Un ensemble de photos a été prise. Votre action est de lancer l'apprentissage.
 
 
-## Test de l'enttrainement
+## Test de l'entrainement
 1. Connecter vous via un navigateur Internet à l'URL suivant : `https://[IP de votre TJBot]:1880/visualtj`
 2. Cliquer sur `Prendre Photo`
 3. Cliquer ensuite si la photo vous convient sur `Analyse`
 4. Le TJBot doit avoir reconnu un de vos produits et vous l'avoir dit à l'oral avec quelques informations additionnelles.
 
-Bravo 
+Bravo. Vous avez mérité un petit jeu. 
 
 
