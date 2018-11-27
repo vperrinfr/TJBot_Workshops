@@ -12,7 +12,7 @@ Tout est à faire soi-même, de l’assemblage des compo- sants électronique
 
 ## Workshops 
 
-### Entraînement du robot a comprendre l’humain  aka Watson Assistant
+### Entraînement du robot a comprendre l’humain aka Watson Assistant
 
 Dans ce workshop, nous allons apprendre à entrainer le TJBot à comprendre et converser avec un humain. Nous allons lui demander de bouger son bras, la météo...
 
