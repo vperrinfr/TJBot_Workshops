@@ -14,12 +14,12 @@ Le mécanisme d'apprentissage est le suivant:
 ![vr](https://user-images.githubusercontent.com/9534938/49222073-2b05fc00-f3db-11e8-92cd-6b42b4b7d61e.png)
 
 Le service Visual Recognition peut être utilisé par diverses applications et industries, comme :
-    - Production : utilisez les images d'un paramètre de production pour vous assurer que les produits sont positionnés correctement sur une chaîne d'assemblage
-    - Contrôle visuel : recherchez une conformité visuelle ou une détérioration dans une flotte de camions, d'avions ou d'éoliennes sur le terrain, entraînez des modèles personnalisés à comprendre à quoi ressemblent les défauts
-    - Assurance : traitez rapidement les déclarations de sinistres en utilisant des images pour les classer en différentes catégories
-    - Ecoute sur les réseaux sociaux : utilisez des images de votre ligne de produits ou de votre logo pour écouter sur les médias sociaux ce qui se dit sur votre entreprise
-    - Commerce sur les réseaux sociaux : utilisez l'image d'un plat du jour pour trouver le restaurant qui le sert, trouver des commentaires, servez-vous d'une photo de voyage pour trouver des suggestions de vacances reposant sur des expériences similaires
-    - Distribution : prenez une photo d'une de vos tenues favorites pour trouver les magasins où elle est vendue ou soldée, servez-vous d'une photo de voyage pour trouver des suggestions de magasins dans cette région.
+- Production : utilisez les images d'un paramètre de production pour vous assurer que les produits sont positionnés correctement sur une chaîne d'assemblage
+- Contrôle visuel : recherchez une conformité visuelle ou une détérioration dans une flotte de camions, d'avions ou d'éoliennes sur le terrain, entraînez des modèles personnalisés à comprendre à quoi ressemblent les défauts
+- Assurance : traitez rapidement les déclarations de sinistres en utilisant des images pour les classer en différentes catégories
+- Ecoute sur les réseaux sociaux : utilisez des images de votre ligne de produits ou de votre logo pour écouter sur les médias sociaux ce qui se dit sur votre entreprise
+- Commerce sur les réseaux sociaux : utilisez l'image d'un plat du jour pour trouver le restaurant qui le sert, trouver des commentaires, servez-vous d'une photo de voyage pour trouver des suggestions de vacances reposant sur des expériences similaires
+- Distribution : prenez une photo d'une de vos tenues favorites pour trouver les magasins où elle est vendue ou soldée, servez-vous d'une photo de voyage pour trouver des suggestions de magasins dans cette région.
 
 Maintenant à vous d'essayer...
 
