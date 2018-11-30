@@ -1,6 +1,6 @@
-# TJBot_Workshops
+# Workshops TJBOt
 
-Quelques workshops autour du TJBot en utilisant NodeRed en Français
+Quelques workshops autour du robot TJBot.
 
 ## Introduction au TJBot
 
