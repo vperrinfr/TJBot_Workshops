@@ -1,4 +1,4 @@
-# Workshops TJBOt
+# Workshops TJBot
 
 Quelques workshops autour du robot TJBot.
 
