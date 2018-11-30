@@ -14,6 +14,7 @@ Pour cela, nous utilisons le service IBM Watson™ Assistant qui vous permet de 
 1. Connecter vous via un navigateur Internet à l'URL suivant : `https://[IP de votre TJBot]:1880/ui`
 2. Voici quelques questions que vous pouvez poser au TJBot. 
 - Liste de questions:
+    - Bonjour TJBot
     - Quel temps à Paris ? (ou Lille, Bordeaux, Marseille...)
     - Qu'est ce que [nom de votre entreprise] ?
     - Raconte moi une blague 
